@@ -1,0 +1,3 @@
+SELECT NAME
+FROM COUNTRY
+WHERE CONTINENT='Asia' OR continent='North America';
