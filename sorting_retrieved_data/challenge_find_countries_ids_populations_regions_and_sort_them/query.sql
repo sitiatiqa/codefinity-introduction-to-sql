@@ -1,0 +1,3 @@
+SELECT id, name, population, region
+FROM COUNTRY
+ORDER BY REGION DESC, POPULATION;
